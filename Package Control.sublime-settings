@@ -6,6 +6,9 @@
 	"installed_packages":
 	[
 		"AutoHotkey",
-		"Material Theme"
+		"LaTeX-cwl",
+		"LaTeXTools",
+		"Material Theme",
+		"Package Control"
 	]
 }
