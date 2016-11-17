@@ -5,3 +5,6 @@
 !Preferences.sublime-settings
 !Default\ (Windows).sublime-keymap
 !Default\ (Windows).sublime-mousemap
+!Python.sublime-settings
+!Matlab.sublime-settings
+!Package\ Control.sublime-settings
