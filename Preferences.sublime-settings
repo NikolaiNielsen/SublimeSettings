@@ -26,6 +26,7 @@
 	"material_theme_tabs_autowidth": true,
 	"overlay_scroll_bars": "enabled",
 	"shift_tab_unindent": true,
+	"show_encoding": true,
 	"theme": "Material-Theme.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true

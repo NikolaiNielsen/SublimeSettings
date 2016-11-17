@@ -6,8 +6,7 @@
 	"installed_packages":
 	[
 		"AutoHotkey",
-		"LaTeX-cwl",
-		"LaTeXTools",
+		"Compare Side-By-Side",
 		"Material Theme",
 		"Package Control"
 	]

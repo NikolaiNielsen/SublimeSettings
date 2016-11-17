@@ -1,0 +1,9 @@
+{
+	"extensions":
+	[
+		"m"
+	],
+
+	"rulers": [80],
+	"wrap_width": 80,
+}
